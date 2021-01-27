@@ -1,0 +1,11 @@
+{
+  "name": "my-restaurant",
+  "version": "1.0.0",
+  "description": "Application using mern stack",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jahangeer ansari",
+  "license": "ISC"
+}
